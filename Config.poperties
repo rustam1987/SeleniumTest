@@ -1,0 +1,4 @@
+envirnment=prod
+browser=chrome
+ProdUrl=https://www.yahoo.com/
+StageUrl=https://www.amazon.com/
